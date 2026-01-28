@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 export function CTASection() {
   return (
     <section className="py-24 relative overflow-hidden">
-      <div className="absolute inset-0 gradient-amber opacity-10" />
+      <div className="absolute inset-0 gradient-navy opacity-10" />
       <div className="absolute inset-0 bg-gradient-to-r from-background via-transparent to-background" />
       
       <div className="section-container relative z-10">

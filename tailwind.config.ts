@@ -50,8 +50,8 @@ export default {
         // Extended construction palette
         "surface-elevated": "hsl(var(--surface-elevated))",
         "surface-overlay": "hsl(var(--surface-overlay))",
-        "amber-glow": "hsl(var(--amber-glow))",
-        "amber-dim": "hsl(var(--amber-dim))",
+        "navy-glow": "hsl(var(--navy-glow))",
+        "navy-dim": "hsl(var(--navy-dim))",
         steel: "hsl(var(--steel))",
         concrete: "hsl(var(--concrete))",
         success: "hsl(var(--success))",
